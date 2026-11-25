@@ -1,0 +1,9 @@
+.gradle/
+.android-build/
+**/build/
+local.properties
+platform-tools/
+android-platform-tools.zip
+.idea/
+*.apk
+*.keystore

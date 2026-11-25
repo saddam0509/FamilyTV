@@ -1,0 +1,14 @@
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false" />
+    <domain-config cleartextTrafficPermitted="true">
+        <domain>172.27.27.3</domain>
+        <domain>172.17.17.19</domain>
+        <domain>172.27.27.1</domain>
+        <domain>172.21.22.23</domain>
+        <domain>172.22.22.101</domain>
+        <domain>172.22.22.103</domain>
+        <domain>172.22.22.106</domain>
+        <domain>zflixbd.com</domain>
+        <domain includeSubdomains="true">mazedanetworks.net</domain>
+    </domain-config>
+</network-security-config>
