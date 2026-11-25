@@ -76,4 +76,4 @@ The resulting APK will be located at `app/build/outputs/apk/debug/app-debug.apk`
 
 ## 📜 License
 
-This project is open-source software. Feel free to fork, adapt, and improve for your household.
+This project is open-source software licensed under the [MIT License](LICENSE). Feel free to fork, adapt, and improve for your household.
